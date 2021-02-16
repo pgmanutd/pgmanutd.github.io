@@ -14,7 +14,8 @@ Thanks 🙇🏻 for visiting my Profile ❤️!
 
 ### 😍 Passionate about
 
-<img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br>
+<img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px">
+
 - [👓 WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
 - [🔻 Threejs](https://threejs.org)
 - [🎉 CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS) 
