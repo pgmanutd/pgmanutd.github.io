@@ -16,13 +16,13 @@ Thanks 🙇🏻 for visiting my Profile ❤️!
 
 <img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px">
 
-- [👓 WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
-- [🔻 Threejs](https://threejs.org)
-- [🎉 CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS) 
-- [🔧 Codemods](https://github.com/facebook/jscodeshift)
-- [👷 Creating Babel plugins](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
-- [⬡ GraphQL](https://graphql.org)
-- [🔥 Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
+- [👓&nbsp;WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+- [🔻&nbsp;Threejs](https://threejs.org)
+- [🎉&nbsp;CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS) 
+- [🔧&nbsp;Codemods](https://github.com/facebook/jscodeshift)
+- [👷&nbsp;Creating Babel plugins](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
+- [⬡&nbsp;GraphQL](https://graphql.org)
+- [🔥&nbsp;Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
 ### 💬 Want to connect? 📫
 
