@@ -37,7 +37,7 @@ ReactDOM.render(
     <Email address="prashantmanunited@gmail.com" provider="Gmail" />
     <Profile type="Github" url="https://github.com/pgmanutd" name="pgmanutd" />
     <Profile type="LeetCode" url="https://leetcode.com/pgmanutd" name="Prashant Goel" />
-  </>, 
+  </>,
   document.getElementById('want-to-connect')
 );
 ```
