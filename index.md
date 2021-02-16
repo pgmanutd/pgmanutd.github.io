@@ -4,26 +4,26 @@ Thanks 🙇🏻 for visiting my Profile ❤️!
 
 <!-- <img width="380" height="140" src="https://github-readme-stats.vercel.app/api?username=pgmanutd&show_icons=true"> -->
 
-**👨‍💻 Currently working on**
-- [`👷‍♀️ Compiled | Build time atomic CSS-in-JS. Baked and ready to serve.`](https://github.com/atlassian-labs/compiled)
+### 👨‍💻 Currently working on
+- [👷‍♀️ Compiled | Build time atomic CSS-in-JS. Baked and ready to serve.](https://github.com/atlassian-labs/compiled)
 - [![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20Problems-fea116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/pgmanutd)](https://leetcode.com/pgmanutd)
 - [⚛️ React SSR static streaming with dynamic Tailwind CSS](https://store.lootdunia.in/) and trying to create [Incremental Static Regeneration like Next.js](https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration).
 
-**🔬 My other works**
+### 🔬 My other works
 
-[`Check out my pinned repositories on Github`](https://github.com/pgmanutd)
+[Check out my pinned repositories on Github](https://github.com/pgmanutd)
 
-**😍 Passionate about**
+### 😍 Passionate about
 <br><br><img src="https://github.com/pgmanutd/pgmanutd/raw/master/assets/images/vr-gaming.gif" width="150px"><br>
-- [`👓 WebXR`](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
-- [`🔻 Threejs`](https://threejs.org)
-- [`🎉 CSS-in-JS`](https://en.wikipedia.org/wiki/CSS-in-JS) 
-- [`🔧 Codemods`](https://github.com/facebook/jscodeshift)
-- [`👷 Creating Babel plugins`](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
-- [`⬡ GraphQL`](https://graphql.org)
-- [`🔥 Functional Programming`](https://en.wikipedia.org/wiki/Functional_programming)
+- [👓 WebXR](https://developer.mozilla.org/en-US/docs/Web/API/WebXR_Device_API)
+- [🔻 Threejs](https://threejs.org)
+- [🎉 CSS-in-JS](https://en.wikipedia.org/wiki/CSS-in-JS) 
+- [🔧 Codemods](https://github.com/facebook/jscodeshift)
+- [👷 Creating Babel plugins](https://github.com/jamiebuilds/babel-handbook/blob/master/translations/en/plugin-handbook.md)
+- [⬡ GraphQL](https://graphql.org)
+- [🔥 Functional Programming](https://en.wikipedia.org/wiki/Functional_programming)
 
-**💬 Want to connect? 📫**
+### 💬 Want to connect? 📫
 
 ```ts
 import * as React from 'react';
