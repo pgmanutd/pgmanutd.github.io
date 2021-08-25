@@ -7,6 +7,8 @@ Thanks 🙇🏻 for visiting my Profile ❤️!
 - [👷‍♀️ Compiled: Build time atomic CSS-in-JS. Baked and ready to serve.](https://github.com/atlassian-labs/compiled)
 - [![LeetCode Badge](https://img.shields.io/badge/-LeetCode%20Problems-fea116?style=flat-square&logo=leetcode&logoColor=white&link=https://leetcode.com/pgmanutd)](https://leetcode.com/pgmanutd)
 - [⚛️ React SSR static streaming with dynamic Tailwind CSS](https://store.lootdunia.in/) and trying to create [Incremental Static Regeneration like Next.js](https://nextjs.org/docs/basic-features/data-fetching#incremental-static-regeneration).
+- [`Crowdsourcing Platform`](https://github.com/Open-Speech-EkStep/crowdsource-dataplatform). Redesigning the entire frontend in **NextJS (SSG only)** and creating an interop so that it works with the legacy codebase.
+
 
 ### 🔬 My other works
 
